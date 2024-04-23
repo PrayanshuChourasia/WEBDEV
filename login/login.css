@@ -106,7 +106,7 @@ svg {
 /* main content  */
 
 
-
+/* 
 .main-content {
     display: flex;
     justify-content: center;
@@ -160,7 +160,7 @@ svg {
     background: #2b2525;
     color: rgb(255, 0, 0);
     transition: all 0.5s ease;
-}
+} */
 
 p{
     text-align: center;
@@ -186,7 +186,7 @@ p:hover{
         display: block;
     }
 
-    .main-content .head-line h2 {
+    /* .main-content .head-line h2 {
         font-size: 25px;
     }
 
@@ -195,7 +195,7 @@ p:hover{
     }
     .main-content #login{
         font-size: 15px;
-    }
+    } */
     p{
         font-size: large;
     }
@@ -208,7 +208,7 @@ p:hover{
     .sidebar {
         width: 100%;
     }
-
+/* 
     .main-content .head-line h2 {
         font-size: 20px;
         transition: all .5s ease;
@@ -224,5 +224,5 @@ p:hover{
         width: 100px;
         transition: all .5s ease;
         font-size: small;
-    }
+    } */
 }
